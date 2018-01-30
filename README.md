@@ -1,3 +1,5 @@
+# Brick-Breaker
+
 A modified 2D version of the classic Brick Breaker game, implemented using OpenGL3. Using concepts of physics like gravity and optics, it allows users to collect randomly falling bricks, while also enabling them to shoot laser rays at the bricks.
 
 # How to Run:
